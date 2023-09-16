@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/chirasi_portfolio/static/css/main.ecf9e826.css",
+    "main.js": "/chirasi_portfolio/static/js/main.19225058.js",
+    "static/media/projectOne.png": "/chirasi_portfolio/static/media/projectOne.11910eb94fc47b303bb1.png",
+    "static/media/bannerImg.png": "/chirasi_portfolio/static/media/bannerImg.6f925c40717d40371f41.png",
+    "static/media/projectTwo.png": "/chirasi_portfolio/static/media/projectTwo.db2c3674bb5e93e3f13d.png",
+    "static/media/projectFour.png": "/chirasi_portfolio/static/media/projectFour.95bdc98d7127158ef864.png",
+    "static/media/projectThree.png": "/chirasi_portfolio/static/media/projectThree.601b00add070ec52b098.png",
+    "static/media/cv.pdf": "/chirasi_portfolio/static/media/cv.a1d054aa1e5b491fcaaa.pdf",
+    "static/media/projectFive.png": "/chirasi_portfolio/static/media/projectFive.3f594aabb77836fce1f4.png",
+    "static/media/contactImg.png": "/chirasi_portfolio/static/media/contactImg.8ddfbfd11798f881db54.png",
+    "static/media/testimonialOne.png": "/chirasi_portfolio/static/media/testimonialOne.c4706b2d1cadcb9f4daf.png",
+    "static/media/projectSix.png": "/chirasi_portfolio/static/media/projectSix.727a1c74fe9ea6807355.png",
+    "static/media/testimonialTwo.png": "/chirasi_portfolio/static/media/testimonialTwo.c6df2773c486964035d9.png",
+    "static/media/pycharm.svg": "/chirasi_portfolio/static/media/pycharm.754185f8f9acaa6714620b48eac2da76.svg",
+    "static/media/intellij.svg": "/chirasi_portfolio/static/media/intellij.f092d11055b18c7830115329af444607.svg",
+    "static/media/java.svg": "/chirasi_portfolio/static/media/java.9c52b65cdb8ce45c26284f71a5044942.svg",
+    "static/media/expressjs.svg": "/chirasi_portfolio/static/media/expressjs.493a0dd08d8d77a341e2d22676607a29.svg",
+    "static/media/c++.svg": "/chirasi_portfolio/static/media/c++.d105ca0ee889cb403a0ab15ba72db0a5.svg",
+    "static/media/android-studio.svg": "/chirasi_portfolio/static/media/android-studio.4a326c0118909a2ac517e049f106d701.svg",
+    "static/media/redux.svg": "/chirasi_portfolio/static/media/redux.780de0f4337c2772518ef78477a5234f.svg",
+    "static/media/css.svg": "/chirasi_portfolio/static/media/css.4664b0b913e3659834ac9ce4cd38cddc.svg",
+    "static/media/vscode.svg": "/chirasi_portfolio/static/media/vscode.01edeabe87a220d0e550cd53b82fb693.svg",
+    "static/media/c.svg": "/chirasi_portfolio/static/media/c.06a7aa15451c5da63b9e5eddd4365598.svg",
+    "static/media/kotlin.svg": "/chirasi_portfolio/static/media/kotlin.715045babf334f781660c09535be4c84.svg",
+    "static/media/python.svg": "/chirasi_portfolio/static/media/python.14f5a10cd798d37370e148820ac33a75.svg",
+    "index.html": "/chirasi_portfolio/index.html",
+    "static/media/tailwindcss.svg": "/chirasi_portfolio/static/media/tailwindcss.017e1e304e12384d156d384f40a4b5f8.svg",
+    "static/media/fastapi.svg": "/chirasi_portfolio/static/media/fastapi.6c84dc4ea9626837be0ce2c5523b6d52.svg",
+    "main.ecf9e826.css.map": "/chirasi_portfolio/static/css/main.ecf9e826.css.map",
+    "main.19225058.js.map": "/chirasi_portfolio/static/js/main.19225058.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecf9e826.css",
+    "static/js/main.19225058.js"
+  ]
+}
