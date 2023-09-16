@@ -26,7 +26,8 @@ const LeftBanner = () => {
           />
         </h2>
         <p className="text-base leading-6 tracking-wide font-bodyFont">
-          I'm a Software Developer, who is curious to learn new technologies and one who is thirst for knowledge. I love to create attractive and functional web and mobile applications as solutions to give the best user experience.
+        I am a passionate Software Developer with a strong desire for continuous learning. My expertise lies in developing user-friendly 
+        web and mobile applications, blending creativity and functionality to create remarkable solutions.
         </p>
       </div>
      {/* Media */}
