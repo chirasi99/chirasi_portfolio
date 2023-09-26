@@ -32,7 +32,7 @@ const Projects = () => {
           src={projectTwo}
           git = "https://github.com/Stylioo"
         />
-        <ProjectsCard
+        {/* <ProjectsCard
           title=" SOCIAL MEDIA APP"
           des="Introducing a cutting-edge, full-stack MERN (MongoDB, Express.js, React.js, Node.js) application that redefines social networking. Our platform empowers users to seamlessly authenticate themselves, fostering a vibrant online community where interaction is key."
           src={projectThree}
@@ -49,7 +49,8 @@ const Projects = () => {
           des="Our Calculator app, built with React and Styled Components, delivers a user-friendly interface for math calculations. React ensures efficient rendering and state management, while Styled Components enhance visual appeal, showcasing modern web development at its best."
           src={projectFive}
           git = "https://github.com/chirasi99/Calculator_app"
-        />
+        /> */}
+        
         <ProjectsCard
           title="Todo List App"
           des="Introducing our user-friendly Todo List App that simplifies task management. Add tasks seamlessly with a single click on the plus button and remove completed tasks effortlessly by clicking on them, making staying organized a breeze."
